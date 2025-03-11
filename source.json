@@ -35,7 +35,8 @@
                     "com.apple.developer.ubiquity-container-identifiers",
                     "com.apple.developer.icloud-container-environment",
                     "com.apple.developer.icloud-container-identifiers",
-                    "com.apple.developer.icloud-services"
+                    "com.apple.developer.icloud-services",
+                    "beta-reports-active"
                 ],
                 "privacy": {
                     "NSPhotoLibraryAddUsageDescription": "Sonolus adds photos to the gallery.",
