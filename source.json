@@ -25,14 +25,13 @@
                 {
                     "version": "0.8",
                     "buildVersion": "11",
-                    "date": "2025-03-10",
+                    "date": "2025-03-8",
                     "localizedDescription": "Sonolus 0.8.11",
                     "downloadURL": "https://download.sonolus.com/Sonolus_0.8.11.ipa",
                     "size": 109584189
                 }
             ],
-            "appPermissions": {},
-            "patreon": {}
+            "appPermissions": {}
         }
     ],
     "news": []
