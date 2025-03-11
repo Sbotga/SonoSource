@@ -31,17 +31,17 @@
                 }
             ],
             "appPermissions": {
-"entitlements": [
-    "com.apple.developer.ubiquity-container-identifiers",
-    "com.apple.developer.icloud-container-environment",
-    "com.apple.developer.icloud-container-identifiers",
-    "com.apple.developer.icloud-services"
-  ],
-  "privacy": {
-    "NSPhotoLibraryAddUsageDescription": "Sonolus adds photos to the gallery.",
-    "NSPhotoLibraryUsageDescription": "Sonolus uses the gallery to read QR codes.",
-    "NSCameraUsageDescription": "Sonolus uses the camera to read QR codes."
-  }
+                "entitlements": [
+                    "com.apple.developer.ubiquity-container-identifiers",
+                    "com.apple.developer.icloud-container-environment",
+                    "com.apple.developer.icloud-container-identifiers",
+                    "com.apple.developer.icloud-services"
+                ],
+                "privacy": {
+                    "NSPhotoLibraryAddUsageDescription": "Sonolus adds photos to the gallery.",
+                    "NSPhotoLibraryUsageDescription": "Sonolus uses the gallery to read QR codes.",
+                    "NSCameraUsageDescription": "Sonolus uses the camera to read QR codes."
+                }
             }
         }
     ],
