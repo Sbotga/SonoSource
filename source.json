@@ -28,6 +28,14 @@
                     "localizedDescription": "Sonolus 0.8.11",
                     "downloadURL": "https://download.sonolus.com/Sonolus_0.8.11.ipa",
                     "size": 109584189
+                },
+                {
+                    "version": "0.8.12",
+                    "buildVersion": "0",
+                    "date": "2025-04-4",
+                    "localizedDescription": "Sonolus 0.8.12",
+                    "downloadURL": "https://download.sonolus.com/Sonolus_0.8.12.ipa",
+                    "size": 109605279
                 }
             ],
             "appPermissions": {
