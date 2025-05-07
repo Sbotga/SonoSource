@@ -22,6 +22,14 @@
             "screenshots": [],
             "versions": [
                 {
+                    "version": "0.8.13",
+                    "buildVersion": "1",
+                    "date": "2025-05-6",
+                    "localizedDescription": "Sonolus 0.8.13 (Build 1)",
+                    "downloadURL": "https://download.sonolus.com/Sonolus_0.8.13_1.ipa",
+                    "size": 110186476
+                },
+                {
                     "version": "0.8.12",
                     "buildVersion": "0",
                     "date": "2025-04-4",
