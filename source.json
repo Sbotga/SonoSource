@@ -58,6 +58,7 @@
             ],
             "appPermissions": {
                 "entitlements": [
+                    "com.apple.developer.associated-domains",
                     "com.apple.developer.ubiquity-container-identifiers",
                     "com.apple.developer.icloud-container-environment",
                     "com.apple.developer.icloud-container-identifiers",
