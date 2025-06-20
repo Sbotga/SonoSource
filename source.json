@@ -22,6 +22,16 @@
             "screenshots": [],
             "versions": [
                 {
+                    "version": "0.9.0",
+                    "buildVersion": "1",
+                    "marketingVersion": "0.9.0 (1)",
+                    "date": "2025-06-06T11:33:28Z",
+                    "downloadURL": "https://download.sonolus.com/Sonolus_0.9.0_1.ipa",
+                    "size": 147665656,
+                    "minOSVersion": "12.0",
+                    "localizedDescription": "-   Fixed crashing on Android 14+.\n-   Fixed color picker not working when using light theme."
+                },
+                {
                     "version": "0.8.13",
                     "buildVersion": "1",
                     "date": "2025-05-6",
