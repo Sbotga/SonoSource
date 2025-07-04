@@ -22,6 +22,16 @@
             "screenshots": [],
             "versions": [
                 {
+                    "version": "0.9.1",
+                    "buildVersion": "0",
+                    "marketingVersion": "0.9.1",
+                    "date": "2025-06-27T12:16:55Z",
+                    "downloadURL": "https://download.sonolus.com/Sonolus_0.9.1.ipa",
+                    "size": 155768374,
+                    "minOSVersion": "12.0",
+                    "localizedDescription": "-   Added shop.\n-   Added avatar, banner, and UI themes.\n-   Added natural aspect ratio support to backgrounds.\n-   Improved UI/UX.\n-   Improved performance.\n-   Fixed race condition in multiplayer."
+                },
+                {
                     "version": "0.9.0",
                     "buildVersion": "1",
                     "marketingVersion": "0.9.0 (1)",
