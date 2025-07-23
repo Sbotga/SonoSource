@@ -78,7 +78,8 @@
                 "privacy": {
                     "NSPhotoLibraryAddUsageDescription": "Sonolus adds photos to the gallery.",
                     "NSPhotoLibraryUsageDescription": "Sonolus uses the gallery to read QR codes.",
-                    "NSCameraUsageDescription": "Sonolus uses the camera to read QR codes."
+                    "NSCameraUsageDescription": "Sonolus uses the camera to read QR codes.",
+                    "NSUserTrackingUsageDescription": "Sonolus tracks the user data for the shop."
                 }
             }
         }
